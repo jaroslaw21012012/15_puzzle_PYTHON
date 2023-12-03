@@ -6,6 +6,10 @@ I also made SEED system in this game! So, you can type numbers in main menu, and
 
 
 For running app you need:
+- 1 - create folder
+- 2 - download source.zip
+- 3 - Unzip source.zip
+- 4 - download other .py files to folder (NOT SOURCE)
 
 
 ```sh
@@ -13,7 +17,7 @@ pip install pygame
 python main.py
 ```
 
-Or run exe file
+Or download exe file to your created folder (NOT SOURCE) and run!
 
 
 ## Instruction
